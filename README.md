@@ -10,9 +10,10 @@ To find out, we ran both methods across three datasets —
 - **Sentiment Analysis** (based on job description text)  
 
 
-and two models: 
+and three models: 
 - **Random Forest** 
-- **XGBoost**.  
+- **XGBoost**
+- **BERT**
 We then evaluated them using five custom metrics — because sometimes, explainability needs explaining.
 
 
